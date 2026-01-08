@@ -10,12 +10,22 @@ I’m currently working on  <br>AI-powered web applications, full-stack projects
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ersahu&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ersahu&theme=dark&cache_seconds=1800"
+    referrerpolicy="no-referrer"
+  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Ersahu&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=Ersahu&theme=dark&cache_seconds=1800"
+    referrerpolicy="no-referrer"
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersahu&theme=dark&layout=compact" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersahu&theme=dark&layout=compact&cache_seconds=1800"
+    referrerpolicy="no-referrer"
+  />
 </p>
+
 
 
 
